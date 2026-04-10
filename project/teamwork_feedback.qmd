@@ -58,9 +58,10 @@ What Group number are you in?
 
 | Group member name | Participation & communication rating |
 |-------------------|--------------------------------------|
-|                   |                                      |
-|                   |                                      |
-|                   |                                      |
+|   Renata Lovette  |                   4                  |
+|    Yujia Huang    |                   4                  |
+|     Aidan Aimy    |                   4                  |
+|    Adrian Chan    |                   4                  |
 
 ## 3. Helps group excel
 
@@ -72,9 +73,10 @@ What Group number are you in?
 
 | Group member name | Helps group excel rating |
 |-------------------|--------------------------|
-|                   |                          |
-|                   |                          |
-|                   |                          |
+|   Renata Lovette  |             3            |
+|    Yujia Huang    |             2            |
+|     Aidan Aimy    |             3            |
+|    Adrian Chan    |             3            |
 
 ## 4. Team player (cooperation)
 
@@ -86,9 +88,10 @@ What Group number are you in?
 
 | Group member name | Team player (cooperation) rating |
 |-------------------|----------------------------------|
-|                   |                                  |
-|                   |                                  |
-|                   |                                  |
+|   Renata Lovette  |                 4                |
+|    Yujia Huang    |                 4                |
+|     Aidan Aimy    |                 4                |
+|    Adrian Chan    |                 4                |
 
 Below,
 briefly describe the specific contributions each team member
@@ -102,6 +105,10 @@ comment on the following areas:
       That is, what sort of things did you do to contribute to the evolution of the project?
     - What were the roles of others in your group?
 - What went well and poorly throughout the team project experience?
+
+Overall, the team worked fairly well together. I think we all contributed evenly towards the project worked effectively to meet the deadlines of the project. 
+My role included initiating group meetings and kickstarting each milestone hand-in. I thoroughly read through the milestone guidelines on the course website as well as the feedback given from our previous submission. I then bring these before the team as tasks that needs to be addressed and delegated. I was also involved in revising and making final edits and checks before each submission. I think amongst the 4 of us, the workload was pretty even with Aidan and Adrian taking more of the coding elements, especially when it comes to helping Yujia and I in debugging our code. Aidan was also an initiator in the group for starting up brainstorming and discussions for upcoming submissions.
+
 
 ## Submission instructions
 
