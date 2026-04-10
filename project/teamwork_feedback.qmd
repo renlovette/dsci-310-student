@@ -33,7 +33,7 @@ Use the following ratings:
 
 ## 0. Group number
 
-What Group number are you in?
+What Group number are you in? 2
 
 ## 1. Preparation
 
@@ -45,9 +45,10 @@ What Group number are you in?
 
 | Group member name | Preparation rating |
 |-------------------|--------------------|
-|                   |                    |
-|                   |                    |
-|                   |                    |
+|   Renata Lovette  |         4          |
+|     Yujia Huang   |         4          |
+|     Aidan Aimy    |         4          |
+|    Adrian Chan    |         4          |
 
 ## 2. Participation & communication
 
@@ -58,9 +59,10 @@ What Group number are you in?
 
 | Group member name | Participation & communication rating |
 |-------------------|--------------------------------------|
-|                   |                                      |
-|                   |                                      |
-|                   |                                      |
+|   Renata Lovette  |                   4                  |
+|     Yujia Huang   |                   4                  |
+|     Aidan Aimy    |                   4                  |
+|    Adrian Chan    |                   4                  |
 
 ## 3. Helps group excel
 
@@ -72,9 +74,10 @@ What Group number are you in?
 
 | Group member name | Helps group excel rating |
 |-------------------|--------------------------|
-|                   |                          |
-|                   |                          |
-|                   |                          |
+|   Renata Lovette  |             4            |
+|     Yujia Huang   |             2            |
+|     Aidan Aimy    |             3            |
+|    Adrian Chan    |             3            |
 
 ## 4. Team player (cooperation)
 
@@ -86,9 +89,10 @@ What Group number are you in?
 
 | Group member name | Team player (cooperation) rating |
 |-------------------|----------------------------------|
-|                   |                                  |
-|                   |                                  |
-|                   |                                  |
+|   Renata Lovette  |                 4                |
+|     Yujia Huang   |                 4                |
+|     Aidan Aimy    |                 4                |
+|    Adrian Chan    |                 4                |
 
 Below,
 briefly describe the specific contributions each team member
@@ -102,6 +106,11 @@ comment on the following areas:
       That is, what sort of things did you do to contribute to the evolution of the project?
     - What were the roles of others in your group?
 - What went well and poorly throughout the team project experience?
+
+As a whole the team worked effectively together, we all were on top of meeting our responsibilities and delegated tasks. 
+I helped the group stay on task and ensure we met deadlines, this often looked like initiating group meetings and getting a headstart on each milestone.
+I made sure to read through the assignment guidelines and feedback from previous submissions and bring them to the group to delegate work between the four of us.
+In terms of workload, I think it was pretty evenly split across the four of us. Aidan and Adrian would often work on tasks together and would provide help to Yujia and I whenever we were stuck with debugging. Yujia helped out with reviewing the work before submission.
 
 ## Submission instructions
 
